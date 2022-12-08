@@ -21,3 +21,7 @@ Admin, after login can do the following things:
 7. Display which admin activated which user.
 8. Display which admin added which book.
 9. Logout.
+
+### Constraints:
+1. All strings such as username, name, title, author, page content are words and without spaces.
+2. User has to give all inputs without any spaces.
